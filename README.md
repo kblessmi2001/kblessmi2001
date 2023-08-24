@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning *ReactJS,Redux,React-Redux*
 
-- 👨‍💻 All of my projects are available at  [kblessmi2001.github.io](https://kblessmi2001.github.io)
+- 👨‍💻 All of my projects are available at [kblessmi2001.github.io](https://kblessmi2001.github.io/)
 
 - 💬 Ask me about *HTML,CSS,JavaScript,React*
 
