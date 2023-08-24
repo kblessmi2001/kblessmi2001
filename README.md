@@ -8,7 +8,7 @@
 - 💬 Ask me about *HTML,CSS,JavaScript,React*
 
 
-- 📄 Know about my experiences 
+- 📄 Know about my experiences https://drive.google.com/file/d/1X2bZnOkepSYL2naIwihnAUbbvrE00apG/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
