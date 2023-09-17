@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kblessmi2001@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1X2bZnOkepSYL2naIwihnAUbbvrE00apG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1p4NeWqr3CRt_2tv1-yOnTlQd3q4s7yEb/view?usp=sharing)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
