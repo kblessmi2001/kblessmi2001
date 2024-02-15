@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kblessmi2001@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1p4NeWqr3CRt_2tv1-yOnTlQd3q4s7yEb/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/13TcukNaSjF6CM6lqreCK2J9n1j-_BKsj/view?usp=sharing)
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/blessmi-k-01088b224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Blessmi_Linkedin" height="30" width="40" /></a>
